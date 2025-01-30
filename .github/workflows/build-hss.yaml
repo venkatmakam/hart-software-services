@@ -1,3 +1,4 @@
+name: build-hss
 on: [push]
 jobs:
   build-hss:
